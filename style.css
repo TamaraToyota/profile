@@ -1,0 +1,66 @@
+body {
+ background-color: whitesmoke ;
+ font-family: Arial, Helvetica, sans-serif ;
+ color: 557B83 ;
+ font-size: ;
+ line-height: ;
+}
+
+h1 {
+ font-family: Arial, Helvetica, sans-serif ;
+ color: A2D5AB) ;
+ font-size: 30px ;
+ line-height: 1.6 ;
+}
+
+h2 {
+  font-family: Arial, Helvetica, sans-serif ;
+  color: 39AEA9) ;
+  font-size: 30px ;
+  line-height: 1.6 ;
+ }
+
+ h3 {
+  font-family: Arial, Helvetica, sans-serif ;
+  color: 39AEA9) ;
+  font-size: 30px ;
+  line-height: 1.6 ;
+ }
+
+ a {
+   color:39AEA9;
+   font-family: 'Courier New', Courier, monospace;
+   font-size: 12px;
+   a: hoover ;
+ }
+
+ div {
+   background-color: white;
+   padding: 30px;
+   border-radius: 4px;
+   box-shadow: 0 10px 30px rgba(0,0,0,.1);
+   margin: 20px 0px;
+   text-align: center;
+ }
+
+ .img-circle {
+   border-radius: 50%;
+ }
+
+ @media (max-width: 960px) {
+  .container {
+    width: 700px;
+  }
+}
+
+@media (max-width: 720px) {
+  .container {
+    width: 500px;
+  }
+}
+
+@media (max-width: 540px) {
+  .container {
+    width: 300px;
+  }
+}
